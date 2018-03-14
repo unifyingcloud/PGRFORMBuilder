@@ -52,6 +52,16 @@ jQuery(function($) {
    
   });
  
+  document.getElementById('getJSON').addEventListener('click', function() {
+
+    alert(formBuilder.actions.getData('json', true));
+  });
+
+  document.getElementById('getJS').addEventListener('click', function() {
+    alert('check console');
+    console.log(formBuilder.actions.getData());
+  });
+ 
 
 
 });
