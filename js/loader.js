@@ -46,6 +46,8 @@ jQuery(function($) {
  
 
 {"type":"text","subtype":"text","description":"FED/SEIDF/ UEIDT-  /000000/2017","label":"​NÚMERO DE AVERIGUACIÓN PREVIA O CARPETA DE INVESTIGACION","className":"formControl"}
+,
+{"type":"date","name":"date2","label":"II)FECHA DE INICIO DE LA CARPETA DE INVESTIGACION", "class":"formControl"}
 
 ]`
   
