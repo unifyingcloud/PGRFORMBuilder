@@ -43,8 +43,11 @@ jQuery(function($) {
     }
  
     var formData = `[
-      
-{"type":"Paragraph","subtype":"p","label":"XI) LUGAR DE LOS HECHOS"} 
+   {
+		"type": "paragraph",
+		"subtype": "p",
+		"label": "Párrafo"
+	}
 
 ]`
   
