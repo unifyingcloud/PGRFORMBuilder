@@ -30,9 +30,8 @@ var templates = {
       templates: templates 
       
     });
-  $('.rendered-form').children('div').addClass('form-group');
-
-
+  $('.rendered-form').children('div').addClass('form-group col-md-4');
+  
 });
 
 
